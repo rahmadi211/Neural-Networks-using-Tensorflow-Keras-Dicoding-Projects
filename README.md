@@ -31,6 +31,10 @@ This is a similair project to the Dutch News Article Text Classification one, wi
 layers to optimally fit the BBC News Data in this particulat case). Two tokenizer instance are also used in this case (one for the text data and the other one to encode the
 label into numeric form)
 
+## [Time Series Weather (Temperature) Forecasting ](https://github.com/rahmadi211/Neural-Networks-using-Tensorflow-Keras-Dicoding-Projects/blob/main/Temperature_Time_Series.ipynb)
+
+A basic univariate time series case problem involving the jena climate dataset. Using a customized window function with the window size set to 269, a sequential model consisting of a LSTM layer followed by 3 Dense layers was successful in formulating a time series regression with a MAE valu of under 10% if the data scale in just 3 epochs
+
 
 
 
