@@ -33,7 +33,7 @@ label into numeric form)
 
 ## [Time Series Weather (Temperature) Forecasting ](https://github.com/rahmadi211/Neural-Networks-using-Tensorflow-Keras-Dicoding-Projects/blob/main/Temperature_Time_Series.ipynb)
 
-A basic univariate time series case problem involving the jena climate dataset. Using a customized window function with the window size set to 269, a sequential model consisting of a LSTM layer followed by 3 Dense layers was successful in formulating a time series regression with a MAE valu of under 10% if the data scale in just 3 epochs
+A basic univariate time series case problem involving the jena climate dataset. Using a customized window function with the window size set to 269, a sequential model consisting of a LSTM layer followed by 3 Dense layers was successful in formulating a time series regression with a MAE value of under 10% if the data scale in just 3 epochs
 
 
 
